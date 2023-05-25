@@ -33,7 +33,6 @@ main h2{
     border-radius: 4px;
     box-shadow: 2px 2px 14px 7px #000;
     width: 30%;
-    color: #fff;
     float: left;
 }
 form{
@@ -47,7 +46,6 @@ input[type="text"],input[type="password"]{
     height: 30px;
     font-size: 1em;
     margin: 1em 0;
-    color: #fff;
     position: relative;
 }
 
@@ -74,6 +72,5 @@ input[type="text"],input[type="password"]{
 .textfield{
     font-size: 1em;
     margin: 1em 0;
-    color: #fff;
     position: relative;
 }
